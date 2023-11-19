@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1700365063766" clover="3.2.0">
+  <project timestamp="1700365063767" name="All files">
+    <metrics statements="50" coveredstatements="49" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="9" elements="62" coveredelements="59" complexity="0" loc="50" ncloc="50" packages="1" files="2" classes="2"/>
+    <file name="carController.js" path="C:\BINAR ACADEMY\Chapter 1\Challenge Chapter 7\app\controllers\carController.js">
+      <metrics statements="33" coveredstatements="32" conditionals="2" coveredconditionals="1" methods="7" coveredmethods="6"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="54" count="2" type="stmt"/>
+      <line num="55" count="2" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="57" count="2" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="72" count="2" type="stmt"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="74" count="2" type="stmt"/>
+      <line num="75" count="2" type="stmt"/>
+      <line num="76" count="2" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="83" count="1" type="stmt"/>
+      <line num="92" count="2" type="stmt"/>
+      <line num="93" count="2" type="stmt"/>
+      <line num="95" count="2" type="stmt"/>
+      <line num="96" count="1" type="stmt"/>
+      <line num="97" count="1" type="stmt"/>
+      <line num="99" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="107" count="0" type="stmt"/>
+      <line num="115" count="1" type="stmt"/>
+    </file>
+    <file name="userController.js" path="C:\BINAR ACADEMY\Chapter 1\Challenge Chapter 7\app\controllers\userController.js">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="44" count="2" type="stmt"/>
+      <line num="45" count="2" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

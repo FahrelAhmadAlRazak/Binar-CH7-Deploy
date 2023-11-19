@@ -10,7 +10,8 @@ const swaggerDocument = require('./openapi.json');
 
 
 
-const PORT = 33737;
+const PORT = process.env.PORT || 33737;
+
 
 // Car.init(sequelize, sequelize);
 
@@ -54,7 +55,7 @@ app.post("/admin/register",authMiddleware.authorize,authMiddleware.isSuperAdmin,
 app.post("/login", userController.login );
 
 app.listen(PORT, () => {
-    console.log(`Server sudah berjalan, silakan buka viaduct.proxy.rlwy.net:${PORT}`);
+    console.log(`Server sudah berjalan, silakan buka http://127.0.0.1:${PORT}`);
 });
 
 
